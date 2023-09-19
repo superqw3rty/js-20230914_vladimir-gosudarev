@@ -1,4 +1,4 @@
-import { pick } from './index.js';
+ import { pick } from './index.js';
 
 describe('javascript-data-types/pick', () => {
   it('should return new object with one passed field', () => {
